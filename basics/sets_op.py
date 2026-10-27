@@ -6,4 +6,4 @@ print(A.intersection(B))
 print(A&B)
 
 print(A-B)
-print(A^B)
+print(A^B)  # all elememts other than comman
