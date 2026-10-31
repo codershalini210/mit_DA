@@ -1,0 +1,11 @@
+CustomerID,CustomerName,City,State,Gender
+C001,Amit Sharma,Ahmedabad,Gujarat,Male
+C002,Neha Patel,Surat,Gujarat,Female
+C003,Raj Verma,Indore,Madhya Pradesh,Male
+C004,Priya Singh,Bhopal,Madhya Pradesh,Female
+C005,Karan Shah,Vadodara,Gujarat,Male
+C006,Pooja Mehta,Rajkot,Gujarat,Female
+C007,Rohit Jain,Jaipur,Rajasthan,Male
+C008,Anjali Gupta,Udaipur,Rajasthan,Female
+C009,Vikas Yadav,Pune,Maharashtra,Male
+C010,Sneha Joshi,Mumbai,Maharashtra,Female

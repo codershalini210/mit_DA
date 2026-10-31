@@ -1,0 +1,21 @@
+City,State,Country,Latitude,Longitude,Sales,Profit,Quantity,Category
+Ahmedabad,Gujarat,India,23.0225,72.5714,125000,25000,150,Electronics
+Surat,Gujarat,India,21.1702,72.8311,98000,18000,120,Furniture
+Vadodara,Gujarat,India,22.3072,73.1812,85000,15000,95,Clothing
+Rajkot,Gujarat,India,22.3039,70.8022,72000,12000,85,Electronics
+Mumbai,Maharashtra,India,19.0760,72.8777,180000,42000,220,Electronics
+Pune,Maharashtra,India,18.5204,73.8567,145000,32000,180,Furniture
+Nagpur,Maharashtra,India,21.1458,79.0882,92000,17000,110,Clothing
+Nashik,Maharashtra,India,19.9975,73.7898,78000,14000,90,Electronics
+Jaipur,Rajasthan,India,26.9124,75.7873,115000,24000,140,Furniture
+Udaipur,Rajasthan,India,24.5854,73.7125,68000,11000,75,Clothing
+Jodhpur,Rajasthan,India,26.2389,73.0243,81000,16000,100,Electronics
+Delhi,Delhi,India,28.6139,77.2090,200000,50000,250,Electronics
+Chandigarh,Chandigarh,India,30.7333,76.7794,88000,19000,105,Furniture
+Lucknow,Uttar Pradesh,India,26.8467,80.9462,105000,21000,130,Clothing
+Varanasi,Uttar Pradesh,India,25.3176,82.9739,65000,9000,70,Electronics
+Bhopal,Madhya Pradesh,India,23.2599,77.4126,90000,18000,110,Furniture
+Indore,Madhya Pradesh,India,22.7196,75.8577,110000,26000,145,Electronics
+Kolkata,West Bengal,India,22.5726,88.3639,135000,28000,160,Clothing
+Bengaluru,Karnataka,India,12.9716,77.5946,175000,40000,210,Electronics
+Chennai,Tamil Nadu,India,13.0827,80.2707,155000,35000,190,Furniture

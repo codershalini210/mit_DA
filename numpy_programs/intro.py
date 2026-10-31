@@ -1,20 +1,18 @@
 import numpy as np 
-numbers = np.array([12,52,65,75])
-numbers2D = np.array([
-    
-        [[12,32,58],[44,32,77]],
-      [[32,44,77],[54,23,45]],
-    [[1,5,5],[2,5,1]]   
+ary1 = np.array([
+  [10,200,21],
+  [5,4,32]
 ])
+# rowscount =ary1.shape[0]
+# columnscount = ary1.shape[1]
+# rindex = 0
+# cindex = 0
+# maxvalue = ary1[0][0]
+# for r in range(0,rowscount):
+#   for c in range(0,columnscount):
+#     if(maxvalue<ary1[r][c]):
+#       maxvalue =ary1[r][c]
+#       cindex=c
+#       rindex = r
 
-print(numbers2D.dtype)
-print(np.shape(numbers))
-print(np.shape(numbers2D))
-print(np.ndim(numbers))
-print(np.ndim(numbers2D))
-print("size of all element ",(numbers2D.itemsize * np.size(numbers2D)) )
-# print("max is ",np.max(numbers))
-# print("min is ",np.min(numbers))
-# print("length is ",np.size(numbers))
-# print("sum is ",np.sum(numbers))
-# print("avg is ",np.average(numbers))
+# print("max value :" , maxvalue, "found at index [",rindex,",",cindex,"]")
