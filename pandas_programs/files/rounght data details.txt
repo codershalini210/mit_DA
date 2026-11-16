@@ -1,0 +1,30 @@
+Sheet 1: Raw_Data
+Column	             Sample issue
+Customer_Name	     Extra spaces
+Email	             Missing and invalid emails
+Phone              	Mixed formats
+Age	Missing and text values
+City	Inconsistent spelling
+Department	Uppercase/lowercase
+Product	Inconsistent values
+Quantity	Negative and text values
+Unit_Price	Missing and negative values
+Order_Date	Mixed date formats and invalid dates
+Status	Inconsistent case and spaces
+
+Sheet 2: Practice_Tasks
+
+13 practical exercises covering:
+1. head(), info(), describe()
+2. isnull() and missing values
+3. fillna() and dropna()
+4. duplicated() and drop_duplicates()
+5. str.strip() and str.lower()
+6. replace() and map()
+7. astype() and to_numeric()
+8. to_datetime()
+9. Handling invalid data
+10. Email validation
+11. Duplicate ID detection
+12. Creating calculated columns
+13. Exporting cleaned data
