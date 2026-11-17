@@ -27,7 +27,6 @@ data = {
 df = pd.DataFrame(data)
 df.drop_duplicates(inplace=True,ignore_index=True,keep="last")
 print(df)
-
 # first clean data 
 # give total no of emps
 # avg salary
